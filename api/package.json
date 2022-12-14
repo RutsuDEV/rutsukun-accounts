@@ -86,7 +86,7 @@
         "dotenv": "^8.2.0",
         "ejs": "^3.1.5",
         "events": "^3.2.0",
-        "express": "4.17.1",
+        "express": "4.17.3",
         "express-fileupload": "^1.1.7-alpha.3",
         "express-ip": "^1.0.4",
         "express-locale": "^2.0.0",
